@@ -30,3 +30,5 @@ transacoes.forEach(transacao => {
 });
 
 console.log(`Saldo final é: R$ ${saldoFinal}`)
+
+//

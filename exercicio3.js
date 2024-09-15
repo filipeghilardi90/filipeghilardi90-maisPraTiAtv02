@@ -29,3 +29,4 @@ function filtrarPropriedades(produto, valor) {
 // Usando a função para filtrar propriedades com valor maior que 10
 let resultado = filtrarPropriedades(produto, 10);
 console.log(resultado);
+//

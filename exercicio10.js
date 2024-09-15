@@ -19,3 +19,4 @@ vendas.forEach(venda => {
 });
 
 console.log(`Valor total das vendas: R$ ${totalVendas.toFixed(2)}`);
+//

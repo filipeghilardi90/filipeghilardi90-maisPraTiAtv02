@@ -22,4 +22,4 @@ clientes.forEach(cliente => {
     
 });
 console.log(`O numero de clientes com idade mais que 30 é: ${cont}`);
-    
+//    

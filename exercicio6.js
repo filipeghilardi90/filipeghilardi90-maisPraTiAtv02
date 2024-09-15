@@ -23,3 +23,4 @@ for (let funcionario of funcionarios) {
     console.log(`O funcionario: ${funcionario.nome} no cargo de ${funcionario.cargo} ganha: ${salario} por mês`);
     }
 }
+//

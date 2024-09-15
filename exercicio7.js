@@ -17,3 +17,4 @@ produtos.forEach(produto => {
     console.log(`Nome: ${produto.nome}, Preço com desconto: R$ ${produto.precoComDesconto.toFixed(2)}`);
 });
 
+//

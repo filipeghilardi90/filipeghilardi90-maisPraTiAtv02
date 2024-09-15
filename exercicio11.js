@@ -28,3 +28,4 @@ pedidos.forEach(pedido => {
 
 
 console.log(totalPorCliente);
+//

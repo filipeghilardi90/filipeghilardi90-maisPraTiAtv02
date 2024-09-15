@@ -14,3 +14,4 @@
     for (let pessoa of pessoas){
         console.log(`Nome: ${pessoa.nome} , Idade: ${pessoa.idade}, cidade: ${pessoa.cidade}`);
     };
+    //

@@ -25,3 +25,4 @@ for (let aluno of alunos) {
     let media = calculaNota(aluno.nota1, aluno.nota2);
     console.log(`O aluno: ${aluno.nome} ficou com a media final: ${media}`);
 }
+//

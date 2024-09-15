@@ -15,3 +15,4 @@ let carro = {
 for(let propriedades in carro){
     console.log(`${propriedades}: ${carro[propriedades]}`);
 }
+//

@@ -24,3 +24,4 @@ carrinho.itens.forEach(item => {
 });
 
 console.log(`O valor tota do carrinho é: R$ ${valorTotal.toFixed(2)}`);
+//

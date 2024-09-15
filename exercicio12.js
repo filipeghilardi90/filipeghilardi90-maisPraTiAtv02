@@ -21,3 +21,4 @@ estoque.forEach(item => {
 });
 
 console.log(estoque);
+//
